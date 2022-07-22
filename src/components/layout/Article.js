@@ -36,7 +36,7 @@ class Article extends Component {
                           <h2><strong>{this.title}</strong></h2>
                       </div>
 
-                      <div style={{ margin: "35px auto auto auto", width: "90%" }}>
+                      <div style={{ margin: "35px auto 500px auto", width: "90%" }}>
                           {this.content}
                       </div>
 

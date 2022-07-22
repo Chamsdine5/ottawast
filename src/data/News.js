@@ -112,7 +112,7 @@ export const news = [
 
             <p>Il s&rsquo;est impos&#233; comme l&rsquo;homme en forme de la fin de saison lilloise, raflant m&#234;me le troph&#233;e de Dogue du mois de mai by Boulanger pour ses trois buts et sa passe d&#233;cisive lors des deux derni&#232;res rencontres de Ligue 1. Sans surprise, Timothy Weah a confirm&#233; sa bonne dynamique du moment sur la sc&#232;ne internationale. Oppos&#233; au Maroc, la nuit derni&#232;re en match amical, du c&#244;t&#233; de Cincinnati, le num&#233;ro 22 du LOSC &#233;tait titulaire dans le couloir droit de l&rsquo;attaque am&#233;ricaine et s&rsquo;est montr&#233; particuli&#232;rement actif. Notre homme a m&#234;me inscrit un magnifique but d&rsquo;un puissant tir. Dos au but, il a re&#231;u le ballon &#224; 30 m&#232;tres, s&rsquo;est retourn&#233; avant d&rsquo;armer au sortir d&rsquo;un coup de rein qui a &#233;limin&#233; son d&#233;fenseur. Le but du break (3&ndash;0, 32&rsquo;) d&rsquo;une rencontre achev&#233;e sur un score de 3&ndash;0 et que Timothy Weah a disput&#233; dans son int&#233;gralit&#233;.</p>
 
-            <p>Il retrouvera les terrains &#224; partir de dimanche pour une nouvelle rencontre amicale, face &#224; l&rsquo;Uruguay. Ce jeudi 2 juin, deux Dogues seront par ailleurs sur le pont : Gabriel Gudmundsson (Slov&#233;nie – Su&#232;de) et Edon Zhegrova (Chypre - Kosovo).</p>
+            <p>Il retrouvera les terrains &#224; partir de dimanche pour une nouvelle rencontre amicale, face &#224; l&rsquo;Uruguay. Ce jeudi 2 juin, deux Dogues seront par ailleurs sur le pont : Gabriel Gudmundsson (Slov&#233;nie - Su&#232;de) et Edon Zhegrova (Chypre - Kosovo).</p>
             </div>
             },
     {
