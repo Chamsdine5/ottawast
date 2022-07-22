@@ -1,38 +1,146 @@
-.App {
-  text-align: center;
+body {
+    margin: auto;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.logo {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.topnav {
+    background-color: #181733;
+    overflow: hidden;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.logo-container {
+    width: 298px;
+    height: 100%;
+    padding-left: 30px;
+    flex-shrink: 0;
 }
 
-.App-link {
-  color: #61dafb;
+.logo {
+    height: 70px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.logo-link {
+    display: block;
+    height: 100%;
+    margin: auto
+}
+
+.link-container {
+    height: 64%;
+    padding-right: 10%;
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+}
+
+.topnav-link {
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    margin: auto;
+}
+
+.vr-line {
+    border-left: 1px solid #4e4b5d;
+    height: 100%;
+}
+.hr-line {
+    border-top: 1px solid #4e4b5d;
+    width: 100%;
+}
+
+.social-media {
+    height: 36%;
+    width: 100%;
+    background-color: #0a0927;
+}
+
+.social-media-text {
+    display:flex;
+    flex-direction:row;
+    color: #9d9da0;
+    font-size: 11px;
+    height: 100%;
+    margin-left: 14px;
+}
+
+.follow-text {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.news {
+    width: 24%;
+    height: 358px;
+    border: 1px solid #C9C9C9;
+}
+
+.vert-center {
+    margin-top: 15px;
+}
+
+.img-news {
+    object-fit: cover;
+    height: 220px;
+    width: 100%;
+}
+
+.product-landing {
+    width: 24%;
+    height: 358px;
+    border: 1px solid #C9C9C9;
+    border-radius: 10px;
+    box-shadow: 0px 0px 8px 3px #ccc
+}
+
+.product-dets {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    height: 39%;
+    text-align: center;
+    padding: 20px 5px 20px 5px;
+}
+
+.img-product {
+    object-fit: cover;
+    width: 100%;
+}
+
+.simple-link {
+    text-decoration: none;
+}
+
+#img_container {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.jersey-button {
+    position: absolute;
+    bottom: 176px;
+    left: 96px;
+}
+
+.explore-panel {
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1.2px;
+    border-color: #cfcfcf;
 }
